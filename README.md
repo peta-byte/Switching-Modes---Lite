@@ -1,5 +1,7 @@
 # Lights
 
+![Lights Demo](https://user-images.githubusercontent.com/40006302/93599693-2762b100-f984-11ea-917b-6a26cab16ef2.gif "Lights Demo")
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4.
 
 ## Development server
